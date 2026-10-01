@@ -1,2 +1,3 @@
 *.class
 books.csv
+.history/
