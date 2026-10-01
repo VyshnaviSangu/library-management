@@ -11,5 +11,7 @@ A console app built in Java to manage books in a library.
 
 ## How to run
 
+```
 javac *.java
 java Main
+```
